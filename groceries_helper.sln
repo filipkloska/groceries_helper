@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "groceries_helper", "groceries_helper.csproj", "{3E1BA2B4-0835-48B2-81D9-DA75EADE548A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E1BA2B4-0835-48B2-81D9-DA75EADE548A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E1BA2B4-0835-48B2-81D9-DA75EADE548A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E1BA2B4-0835-48B2-81D9-DA75EADE548A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E1BA2B4-0835-48B2-81D9-DA75EADE548A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
